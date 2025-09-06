@@ -21,11 +21,7 @@ This repository contains a PySpark ETL pipeline for processing city transport CS
 1. Install dependencies:
 pip install -r requirements.txt
 
-markdown
-Copy code
 2. Run ETL:
 python src/city_transport_etl.py
 
-markdown
-Copy code
 3. Output: Processed data will be written to the folder `city-transport-analysis`.
