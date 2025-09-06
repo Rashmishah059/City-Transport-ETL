@@ -1,0 +1,5 @@
+transport_id,station_name,location,passenger_count,last_updated
+1,Central Station,Downtown,120,2025-09-01
+2,West End,Westside,80,2025-09-01
+3,East Side,Eastville,150,2025-09-01
+4,North Point,Northville,60,2025-09-01
